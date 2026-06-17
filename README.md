@@ -4,7 +4,6 @@
 
 <a href="https://jnehete.app"><img src="https://img.shields.io/badge/Portfolio-jnehete.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:jyotiraditya.22310413@viit.ac.in"><img src="https://img.shields.io/badge/Email-Contact%20Me-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Joe_8055"><img src="https://img.shields.io/badge/LeetCode-600%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 
 <br/>
 
@@ -21,6 +20,7 @@ I'm a Computer Engineering student at **Vishwakarma Institute of Information Tec
 - 🎓 B.Tech in Computer Engineering @ VIIT Pune (CGPA: 8.91/10) — Class of 2027
 - 🛠️ Recently worked as an **Industrial Technical Trainee** at Bekaert Eco Solutions, building a computer vision pipeline for live industrial deployment
 - 🧠 I build AI agents using **Spring AI, LangChain & LangGraph**
+- 🏆 2nd Runner-Up at **VORTEXA 2.0 Hackathon 2025**
 - 📫 Reach me at **jyotiraditya.22310413@viit.ac.in**
 
 <br/>
@@ -82,7 +82,7 @@ I'm a Computer Engineering student at **Vishwakarma Institute of Information Tec
 <tr>
 <td width="50%" valign="top">
 
-#### 📧 [MailPilot](https://github.com/jyotiradityanehete)
+#### 📧 [MailPilot](https://github.com/Jyotiraditya23)
 **Intelligent Email Response Agent**
 
 Chrome Extension agent that extracts email content via DOM parsing and generates context-aware reply suggestions using Spring AI. Includes a Spring Boot REST backend and an automated workflow that injects AI-generated replies directly into the compose window.
@@ -92,7 +92,7 @@ Chrome Extension agent that extracts email content via DOM parsing and generates
 </td>
 <td width="50%" valign="top">
 
-#### 💰 [FinTrack](https://github.com/jyotiradityanehete)
+#### 💰 [FinTrack](https://github.com/Jyotiraditya23)
 **Personal Finance Management System**
 
 Full-stack AI-powered finance manager with budgeting, expense visualization, and Gemini-AI-driven savings suggestions and spending predictions. JWT-secured backend deployed on AWS EC2, with automated email reports via Brevo.
@@ -104,7 +104,7 @@ Full-stack AI-powered finance manager with budgeting, expense visualization, and
 <tr>
 <td width="50%" valign="top">
 
-#### 🏋️ [Gym-Genius](https://github.com/jyotiradityanehete)
+#### 🏋️ [Gym-Genius](https://github.com/Jyotiraditya23)
 **AI Fitness Platform**
 
 Microservices-based fitness platform generating personalized workout & diet plans using LangGraph agents. React frontend + Spring Boot backend + FastAPI AI service, containerized with Docker and deployed on AWS EKS.
@@ -131,19 +131,18 @@ Built at Bekaert Eco Solutions — a two-stage YOLOv11 pipeline with frame-skipp
 
 - 🥉 **2nd Runner-Up** — VORTEXA 2.0 Hackathon 2025 by S4DS, Dr. D.Y. Patil Institute of Technology, Pimpri
 - 👨‍💻 **Tech Associate** at CodeChef VIIT — contributing to coding events and workshops
-- 📊 **600+ DSA problems** solved on LeetCode
 
 <br/>
 
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jyotiradityanehete&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiradityanehete&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jyotiraditya23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotiraditya23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotiradityanehete&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jyotiraditya23&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 <br/>
