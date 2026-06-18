@@ -6,9 +6,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Building+AI-powered+full-stack+systems;Spring+Boot+%2B+React+%2B+LLMs;Turning+ideas+into+production-ready+apps;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jnehete.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://jnehete.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jnehete.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://jneheteportfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-jyotiraditya.22310413%40viit.ac.in-06b6d4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyotiraditya.22310413@viit.ac.in)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%208180973456-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918180973456)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jyotiradityanehete)
 [![GitHub](https://img.shields.io/badge/GitHub-jyotiradityanehete-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jyotiradityanehete)
 
 </div>
