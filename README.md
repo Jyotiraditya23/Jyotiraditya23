@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Jyotiraditya Nehete 👋
+# Hi there <img src="https://raw.githubusercontent.com/夾/夾/master/wave.gif" width="30px">, I'm Jyotiraditya Nehete 👋
 
 ### Computer Engineer | Full-Stack & AI Systems Developer
 
