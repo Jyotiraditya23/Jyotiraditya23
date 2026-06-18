@@ -9,7 +9,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-jnehete.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://jneheteportfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-jyotiraditya.22310413%40viit.ac.in-06b6d4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyotiraditya.22310413@viit.ac.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jyotiradityanehete)
-[![GitHub](https://img.shields.io/badge/GitHub-jyotiradityanehete-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jyotiradityanehete)
 
 </div>
 
